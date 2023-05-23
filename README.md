@@ -5,7 +5,7 @@ LSTM_model.ipynb was made for a university project which was 2.5 months.
 
 MarkovChain_Stylizedfacts.ipynb is a file that contains a Markov Chain class and its usage. Also some stylized facts where they have to do with manipulations of financial data.
 
-OMSX30.ipynb is for my master thesis. It is an analysis of OMSX30 index by using some standard ways like examination of the returns of prices. I also use GARCH there. 
+OMSX30.ipynb is for my master thesis. It is an analysis of OMSX30 index by using some standard ways like examination of the returns of prices. I also use an econometric technique called GARCH there. 
 
 Tasks_in_Financial_Engineering(1-3).ipynb are the files that describe different operations with data frames, the usage of functions and classes to achieve certain financial outcomes.
 
