@@ -15,4 +15,4 @@ Additionally, 3 pdfs with some coding of a free standing course in physics with 
 
 Lastly, some .py files with some small tasks that read from txt files. 
 
-The best case scenario is to read the Taks in Financial Engineering first. As there there are more comments to justify a bit the coding.
+The best case scenario is to read the Taks in Financial Engineering first. As there there are more comments to justify a bit the coding for the financial related mini projects.
