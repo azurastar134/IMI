@@ -12,3 +12,5 @@ Tasks_in_Financial_Engineering(1-3).ipynb are the files that describe different 
 artificial_stock_market.ipynb is the file that consists my complex system model by simulating it as an agend-based model. The purpose of this was to immitate a complex system as the stock market and be able to study the dynamics of behind the market when COVID-19 hits it.
 
 Additionally, 3 pdfs with some coding of a free standing course in physics with every detail written there.
+
+Lastly, some .py files with some small tasks that read from files. 
