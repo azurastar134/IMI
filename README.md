@@ -13,4 +13,4 @@ artificial_stock_market.ipynb is the file that consists my complex system model 
 
 Additionally, 3 pdfs with some coding of a free standing course in physics with every detail written there.
 
-Lastly, some .py files with some small tasks that read from files. 
+Lastly, some .py files with some small tasks that read from txt files. 
