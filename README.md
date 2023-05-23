@@ -14,3 +14,5 @@ artificial_stock_market.ipynb is the file that consists my complex system model 
 Additionally, 3 pdfs with some coding of a free standing course in physics with every detail written there.
 
 Lastly, some .py files with some small tasks that read from txt files. 
+
+The best case scenario is to read the Taks in Financial Engineering first. As there there are more comments to justify a bit the coding.
